@@ -1,0 +1,165 @@
+/* imported from google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+.container1{
+  color: #fff;
+  background-color: #1F2937;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 30px;
+  width: 1075px;
+}
+
+.logo {
+  font-size: 24px; 
+  color:#F9FAF8;
+}
+.links {
+  font-size: 18px;
+  list-style-type: none;
+  gap: 16px;
+  display: flex;
+  justify-content: flex-end;
+}
+  
+a {
+  /* this removes the line under our links */
+  text-decoration: none;
+  color: #E5E7EB;
+}
+
+/* hero */
+
+.container0{
+  display: flex;
+  justify-content: space-between;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 30px;
+  width: 1150px;
+}
+
+h3{ 
+  font-size: 48px;
+  font-weight: bolder;
+  color: #F9FAF8;  
+  margin: 0px;
+  width:400px;
+}
+p{
+  font-size: 18px;
+  color: #E5E7EB;
+  margin: 0px;
+  width: 475px;
+}
+.blue{
+  background-color:#3882f6;
+  color: #F9FAF8;
+  width: 110px;
+  height: 40px;
+  border-radius: 12px;
+  border: 1px solid #fff;
+}
+
+/* container2 */
+.container2{
+  background-color: #fff;
+}
+.title{
+  font-size: 38px;
+  font-weight: bolder;
+  color: #1F2937;
+  text-align: center;
+  padding: 50px;
+}
+.text{
+  color: #1F2937;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 52px;
+  padding-bottom: 100px;
+}
+
+.info {
+  max-width: 200px;
+}
+/* container 3*/
+.container3{
+  background-color: #E5E7EB;
+
+}
+.quote{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+.p{
+  font-size: 36px;
+  font-style:italic;
+  color:#1F2937;
+  width: 1000px;
+  font-weight: lighter;
+}
+
+h2{
+  width: 900px;
+  color:#1F2937;
+  text-align: end;
+}
+
+/* container4 */
+.container4{
+  background-color: #fff;
+  padding: 80px 0;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.blue-box{
+  background-color: #3882f6;
+  border-radius: 6px;
+  border: 1px solid #fff;
+  width: 900px;
+  padding: 60px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  
+}
+
+.big{
+  font-size: 25px;
+  font-weight: bold;
+}
+
+/* container5 */
+.container5{
+  background-color: #1F2937;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.footer{
+  color: #E5E7EB;
+  padding: 50px;
+}
