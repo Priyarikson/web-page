@@ -15,6 +15,6 @@ Use flex to create flexible boxes that can stretch and shrink.
 The Key Difference Between a Homepage and a Landing Page
 the homepage has tons of links and the landing page has only one
 
-(images/Screen%20Shot%202022-11-11%20at%2010.59.56%20PM.png)
-(images/Screen%20Shot%202022-11-11%20at%2011.00.07%20PM.png)
-(images/Screen%20Shot%202022-11-11%20at%2010.58.58%20PM.png)
+![Landing Page](images/Screen%20Shot%202022-11-11%20at%2010.59.56%20PM.png)
+![Landing Page](images/Screen%20Shot%202022-11-11%20at%2011.00.07%20PM.png)
+![reference](images/Screen%20Shot%202022-11-11%20at%2010.58.58%20PM.png)
